@@ -1,0 +1,260 @@
+[
+  {
+    "start": 0,
+    "set": "stage",
+    "camera": "wide",
+    "pose": "welcome"
+  },
+  {
+    "start": 1.35,
+    "set": "slide",
+    "camera": "portrait",
+    "pose": "skid"
+  },
+  {
+    "start": 5.18,
+    "set": "stage",
+    "camera": "left",
+    "pose": "present"
+  },
+  {
+    "start": 8.8,
+    "set": "solo",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 11.86,
+    "set": "spot",
+    "camera": "portrait",
+    "pose": "shrug"
+  },
+  {
+    "start": 15.05,
+    "set": "pop",
+    "camera": "portrait",
+    "pose": "question"
+  },
+  {
+    "start": 19.02,
+    "set": "duet",
+    "camera": "duet",
+    "pose": "debate"
+  },
+  {
+    "start": 22.53,
+    "set": "stage",
+    "camera": "right",
+    "pose": "point"
+  },
+  {
+    "start": 26.2,
+    "set": "spot",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 29.5,
+    "set": "trio",
+    "camera": "studio",
+    "pose": "hat_tip"
+  },
+  {
+    "start": 31.85,
+    "set": "stage",
+    "camera": "wide",
+    "pose": "kick"
+  },
+  {
+    "start": 36.09,
+    "set": "trio",
+    "camera": "studio",
+    "pose": "kick"
+  },
+  {
+    "start": 39.44,
+    "set": "solo",
+    "camera": "portrait",
+    "pose": "point"
+  },
+  {
+    "start": 42.87,
+    "set": "stage",
+    "camera": "low",
+    "pose": "punch"
+  },
+  {
+    "start": 46.63,
+    "set": "parade",
+    "camera": "studio",
+    "pose": "walk"
+  },
+  {
+    "start": 49.65,
+    "set": "slide_right",
+    "camera": "portrait",
+    "pose": "skid"
+  },
+  {
+    "start": 52.92,
+    "set": "solo",
+    "camera": "portrait",
+    "pose": "hat_tip"
+  },
+  {
+    "start": 56.67,
+    "set": "stage",
+    "camera": "left",
+    "pose": "present"
+  },
+  {
+    "start": 60.1,
+    "set": "spot",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 63.45,
+    "set": "duet",
+    "camera": "duet",
+    "pose": "debate"
+  },
+  {
+    "start": 66.65,
+    "set": "pop",
+    "camera": "portrait",
+    "pose": "question"
+  },
+  {
+    "start": 70.71,
+    "set": "stage",
+    "camera": "right",
+    "pose": "shrug"
+  },
+  {
+    "start": 74.06,
+    "set": "spot",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 78.93,
+    "set": "stage",
+    "camera": "wide",
+    "pose": "kick"
+  },
+  {
+    "start": 83.08,
+    "set": "trio",
+    "camera": "studio",
+    "pose": "kick"
+  },
+  {
+    "start": 86.51,
+    "set": "solo",
+    "camera": "direct",
+    "pose": "point"
+  },
+  {
+    "start": 89.94,
+    "set": "stage",
+    "camera": "low",
+    "pose": "punch"
+  },
+  {
+    "start": 94.1,
+    "set": "parade",
+    "camera": "studio",
+    "pose": "walk"
+  },
+  {
+    "start": 96.4,
+    "set": "slide",
+    "camera": "portrait",
+    "pose": "skid"
+  },
+  {
+    "start": 100.15,
+    "set": "solo",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 103.82,
+    "set": "duet",
+    "camera": "duet",
+    "pose": "debate"
+  },
+  {
+    "start": 107.57,
+    "set": "spot",
+    "camera": "portrait",
+    "pose": "hat_tip"
+  },
+  {
+    "start": 111.6,
+    "set": "stage",
+    "camera": "low",
+    "pose": "present"
+  },
+  {
+    "start": 114.0,
+    "set": "trio",
+    "camera": "studio",
+    "pose": "hat_tip"
+  },
+  {
+    "start": 116.98,
+    "set": "stage",
+    "camera": "wide",
+    "pose": "kick"
+  },
+  {
+    "start": 121.21,
+    "set": "trio",
+    "camera": "studio",
+    "pose": "kick"
+  },
+  {
+    "start": 124.72,
+    "set": "solo",
+    "camera": "direct",
+    "pose": "punch"
+  },
+  {
+    "start": 128.15,
+    "set": "stage",
+    "camera": "low",
+    "pose": "punch"
+  },
+  {
+    "start": 131.43,
+    "set": "spot",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 135.08,
+    "set": "duet",
+    "camera": "duet",
+    "pose": "punch"
+  },
+  {
+    "start": 139.7,
+    "set": "solo",
+    "camera": "portrait",
+    "pose": "present"
+  },
+  {
+    "start": 144.0,
+    "set": "spot",
+    "camera": "direct",
+    "pose": "lean"
+  },
+  {
+    "start": 147.45,
+    "set": "stage",
+    "camera": "wide",
+    "pose": "bow"
+  }
+]

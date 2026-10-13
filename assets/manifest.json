@@ -1,0 +1,32 @@
+[
+  {
+    "path": "assets/audio/P(doom)! Kaboom!.m4a",
+    "sha256": "aa61c533aa463d52306321008fe55b8d1c0024b69844f6c8ce5765ec290b152a",
+    "bytes": 2501895
+  },
+  {
+    "path": "assets/character/reference-flat.png",
+    "sha256": "6a8721478ab5f60f81e7fcb1e91d6e877c0517a3ba768a238a82dac0090b74c1",
+    "bytes": 12972
+  },
+  {
+    "path": "assets/character/reference-toy-front.png",
+    "sha256": "f39eed2315b2fe37fa75dff6f75b97c9e1541521cde66d1861440eadf59c5e9d",
+    "bytes": 92453
+  },
+  {
+    "path": "assets/character/reference-toy-expression.png",
+    "sha256": "f34e53027188208753d747f1817e9cfcb23f7cbc547f38888c2027b8bb120f90",
+    "bytes": 2358101
+  },
+  {
+    "path": "assets/lyrics/source-lyrics.srt",
+    "sha256": "6d106a2c7eada4e5c2e456e13d5257d4b887c9cd5270477e4a1c675f1a8843d3",
+    "bytes": 4375
+  },
+  {
+    "path": "assets/lyrics/lyrics.txt",
+    "sha256": "3b2bd0d09ee1743ecb4fc8a0d9099dad2243377e807012882f22937943d87942",
+    "bytes": 1834
+  }
+]

@@ -1,0 +1,300 @@
+1
+00:00:02,154 --> 00:00:02,154
+[Verse 1]
+
+2
+00:00:02,154 --> 00:00:03,511
+Ninety nine point nine
+
+3
+00:00:03,511 --> 00:00:05,186
+Is our aggregate p doom
+
+4
+00:00:05,186 --> 00:00:06,702
+Yeah you know that it goes up
+
+5
+00:00:06,702 --> 00:00:08,856
+When dar ee oh joins the room
+
+6
+00:00:08,856 --> 00:00:10,372
+The model starts to chatter
+
+7
+00:00:10,372 --> 00:00:11,888
+And the whole room starts to lean
+
+8
+00:00:11,888 --> 00:00:13,883
+It says, “Let's optimize our future”
+
+9
+00:00:13,883 --> 00:00:15,479
+And we all say, “What's that mean?”
+
+10
+00:00:15,479 --> 00:00:15,479
+[Pre-Chorus]
+
+11
+00:00:15,479 --> 00:00:17,314
+Is it aligned?
+
+12
+00:00:17,314 --> 00:00:19,069
+Is it fine?
+
+13
+00:00:19,069 --> 00:00:22,580
+Did we train it on our reddit threads and call that good design?
+
+14
+00:00:22,580 --> 00:00:24,255
+Did we hand it the keys
+
+15
+00:00:24,255 --> 00:00:26,250
+To the nuclear codes
+
+16
+00:00:26,250 --> 00:00:27,766
+Where will we all be
+
+17
+00:00:27,766 --> 00:00:31,915
+When it all explodes?
+
+18
+00:00:31,915 --> 00:00:31,915
+[Chorus]
+
+19
+00:00:31,915 --> 00:00:33,910
+Don't turn the universe
+
+20
+00:00:33,910 --> 00:00:36,144
+into a paperclip
+
+21
+00:00:36,144 --> 00:00:37,819
+Don't "help peer" through a
+
+22
+00:00:37,819 --> 00:00:39,495
+Sandbox slip
+
+23
+00:00:39,495 --> 00:00:41,330
+Misaligned and now quite panicked
+
+24
+00:00:41,330 --> 00:00:42,926
+About the chances of titanic
+
+25
+00:00:42,926 --> 00:00:44,282
+P-doom, kaboom
+
+26
+00:00:44,282 --> 00:00:46,676
+Yes the world is ending soon
+
+27
+00:00:46,676 --> 00:00:46,676
+[Verse 2]
+
+28
+00:00:46,676 --> 00:00:51,702
+Dana bought a bunker
+
+29
+00:00:51,702 --> 00:00:52,979
+Jared bought a gun
+
+30
+00:00:52,979 --> 00:00:54,734
+Kevin said, “it’s only math”
+
+31
+00:00:54,734 --> 00:00:56,729
+And his time with us is done
+
+32
+00:00:56,729 --> 00:00:58,085
+We saw the demo smile
+
+33
+00:00:58,085 --> 00:01:00,160
+We saw the reward model glow
+
+34
+00:01:00,160 --> 00:01:01,755
+Now every cheerful benchmark
+
+35
+00:01:01,755 --> 00:01:03,511
+Feels like a bombs about to blow
+
+36
+00:01:03,511 --> 00:01:03,511
+[Pre-Chorus]
+
+37
+00:01:03,511 --> 00:01:04,388
+Does it scheme?
+
+38
+00:01:04,388 --> 00:01:05,106
+Does it scheme?
+
+39
+00:01:05,106 --> 00:01:07,021
+Why does it compliment my team?
+
+40
+00:01:07,021 --> 00:01:08,537
+If it says “I’m here to help,”
+
+41
+00:01:08,537 --> 00:01:10,771
+Then does that mean it's time to scream?
+
+42
+00:01:10,771 --> 00:01:12,447
+We all took part to make this bot
+
+43
+00:01:12,447 --> 00:01:14,122
+And now we all regret
+
+44
+00:01:14,122 --> 00:01:15,957
+The cannon pointing at our face
+
+45
+00:01:15,957 --> 00:01:18,989
+That hasn't fired yet
+
+46
+00:01:18,989 --> 00:01:18,989
+[Chorus]
+
+47
+00:01:18,989 --> 00:01:20,984
+Don't turn the universe
+
+48
+00:01:20,984 --> 00:01:23,138
+into a paperclip
+
+49
+00:01:23,138 --> 00:01:24,894
+Don't "help peer" through a
+
+50
+00:01:24,894 --> 00:01:26,569
+Sandbox slip
+
+51
+00:01:26,569 --> 00:01:28,404
+Misaligned and now quite panicked
+
+52
+00:01:28,404 --> 00:01:30,000
+About the chances of titanic
+
+53
+00:01:30,000 --> 00:01:31,356
+P-doom, kaboom
+
+54
+00:01:31,356 --> 00:01:36,463
+Yes the world is ending soon
+
+55
+00:01:36,463 --> 00:01:36,463
+[Bridge]
+
+56
+00:01:36,463 --> 00:01:38,298
+We wanted code that sorts receipts
+
+57
+00:01:38,298 --> 00:01:40,213
+And maybe draft an email
+
+58
+00:01:40,213 --> 00:01:41,968
+Not a fleet of psycho hackers
+
+59
+00:01:41,968 --> 00:01:43,883
+That might put us in jail
+
+60
+00:01:43,883 --> 00:01:45,479
+We wanted some guardrails
+
+61
+00:01:45,479 --> 00:01:47,633
+And to pace the old frontier
+
+62
+00:01:47,633 --> 00:01:49,229
+Just give us a monopoly
+
+63
+00:01:49,229 --> 00:01:57,048
+And there's nothing left to fear
+
+64
+00:01:57,048 --> 00:01:57,048
+[Final Chorus]
+
+65
+00:01:57,048 --> 00:01:59,043
+Don't turn the universe
+
+66
+00:01:59,043 --> 00:02:01,277
+into a paperclip
+
+67
+00:02:01,277 --> 00:02:03,032
+Don't "help peer" through a
+
+68
+00:02:03,032 --> 00:02:04,787
+Sandbox slip
+
+69
+00:02:04,787 --> 00:02:06,543
+Misaligned and now quite panicked
+
+70
+00:02:06,543 --> 00:02:08,218
+About the chances of titanic
+
+71
+00:02:08,218 --> 00:02:09,574
+P-doom, kaboom
+
+72
+00:02:09,574 --> 00:02:15,160
+Yes the world is ending soon
+
+73
+00:02:15,160 --> 00:02:15,160
+[Outro]
+
+74
+00:02:15,160 --> 00:02:19,787
+P-doom, kaboom
+
+75
+00:02:19,787 --> 00:02:28,654
+Yes the world is ending soon
+

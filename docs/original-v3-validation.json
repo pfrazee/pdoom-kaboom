@@ -1,0 +1,25 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "video_frames": 4548,
+  "duration": 151.6,
+  "original_audio_correlation": 0.9996725349792105,
+  "lyric_lines": 66,
+  "aligned_words": 330,
+  "mouth_timing": "isolated vocals, acoustic word alignment, measured energy, aligned consonant closures",
+  "mouth_open_events": 429,
+  "shot_count": 43,
+  "distinct_sets": [
+    "duet",
+    "parade",
+    "pop",
+    "slide",
+    "slide_right",
+    "solo",
+    "spot",
+    "stage",
+    "trio"
+  ],
+  "quiet_passages_all_closed": true
+}

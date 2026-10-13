@@ -1,0 +1,6 @@
+# Optional: only needed to regenerate vocal timing. Use a separate Python 3.12 environment.
+numpy==2.5.4
+scipy==1.18.1
+torch==2.5.1
+torchaudio==2.5.1
+demucs==4.0.1

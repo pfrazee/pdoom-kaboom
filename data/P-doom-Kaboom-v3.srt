@@ -1,0 +1,263 @@
+1
+00:00:02,004 --> 00:00:03,395
+Ninety nine point nine
+
+2
+00:00:03,466 --> 00:00:05,028
+Is our aggregate p doom
+
+3
+00:00:05,028 --> 00:00:06,529
+Yeah you know that it goes up
+
+4
+00:00:06,529 --> 00:00:08,481
+When dar ee oh joins the room
+
+5
+00:00:08,732 --> 00:00:10,253
+The model starts to chatter
+
+6
+00:00:10,253 --> 00:00:11,815
+And the whole room starts to lean
+
+7
+00:00:11,815 --> 00:00:13,757
+It says, “Let's optimize our future”
+
+8
+00:00:13,757 --> 00:00:15,429
+And we all say, “What's that mean?”
+
+9
+00:00:15,429 --> 00:00:16,439
+Is it aligned?
+
+10
+00:00:17,250 --> 00:00:18,340
+Is it fine?
+
+11
+00:00:18,910 --> 00:00:22,422
+Did we train it on our reddit threads and call that good design?
+
+12
+00:00:22,432 --> 00:00:24,152
+Did we hand it the keys
+
+13
+00:00:24,152 --> 00:00:25,923
+To the nuclear codes
+
+14
+00:00:26,093 --> 00:00:27,443
+Where will we all be
+
+15
+00:00:27,653 --> 00:00:30,905
+When it all explodes?
+
+16
+00:00:31,765 --> 00:00:33,596
+Don't turn the universe
+
+17
+00:00:33,627 --> 00:00:35,238
+into a paperclip
+
+18
+00:00:35,909 --> 00:00:37,630
+Don't "help peer" through a
+
+19
+00:00:37,630 --> 00:00:38,941
+Sandbox slip
+
+20
+00:00:39,392 --> 00:00:41,073
+Misaligned and now quite panicked
+
+21
+00:00:41,073 --> 00:00:42,774
+About the chances of titanic
+
+22
+00:00:42,774 --> 00:00:44,116
+P-doom, kaboom
+
+23
+00:00:44,116 --> 00:00:48,069
+Yes the world is ending soon
+
+24
+00:00:49,820 --> 00:00:51,231
+Dana bought a bunker
+
+25
+00:00:51,562 --> 00:00:52,852
+Jared bought a gun
+
+26
+00:00:52,883 --> 00:00:54,674
+Kevin said, “it’s only math”
+
+27
+00:00:54,684 --> 00:00:56,395
+And his time with us is done
+
+28
+00:00:56,546 --> 00:00:57,967
+We saw the demo smile
+
+29
+00:00:57,967 --> 00:00:59,858
+We saw the reward model glow
+
+30
+00:01:00,048 --> 00:01:01,630
+Now every cheerful benchmark
+
+31
+00:01:01,630 --> 00:01:03,361
+Feels like a bombs about to blow
+
+32
+00:01:03,361 --> 00:01:04,242
+Does it scheme?
+
+33
+00:01:04,242 --> 00:01:04,902
+Does it scheme?
+
+34
+00:01:04,902 --> 00:01:06,903
+Why does it compliment my team?
+
+35
+00:01:06,903 --> 00:01:08,364
+If it says “I’m here to help,”
+
+36
+00:01:08,364 --> 00:01:10,485
+Then does that mean it's time to scream?
+
+37
+00:01:10,485 --> 00:01:12,366
+We all took part to make this bot
+
+38
+00:01:12,366 --> 00:01:13,796
+And now we all regret
+
+39
+00:01:14,046 --> 00:01:15,807
+The cannon pointing at our face
+
+40
+00:01:15,807 --> 00:01:18,839
+That hasn't fired yet
+
+41
+00:01:18,839 --> 00:01:20,671
+Don't turn the universe
+
+42
+00:01:20,702 --> 00:01:22,334
+into a paperclip
+
+43
+00:01:23,005 --> 00:01:24,727
+Don't "help peer" through a
+
+44
+00:01:24,727 --> 00:01:26,059
+Sandbox slip
+
+45
+00:01:26,490 --> 00:01:28,192
+Misaligned and now quite panicked
+
+46
+00:01:28,192 --> 00:01:29,894
+About the chances of titanic
+
+47
+00:01:29,894 --> 00:01:31,256
+P-doom, kaboom
+
+48
+00:01:31,256 --> 00:01:36,152
+Yes the world is ending soon
+
+49
+00:01:36,313 --> 00:01:38,214
+We wanted code that sorts receipts
+
+50
+00:01:38,214 --> 00:01:39,906
+And maybe draft an email
+
+51
+00:01:40,056 --> 00:01:41,797
+Not a fleet of psycho hackers
+
+52
+00:01:41,797 --> 00:01:43,668
+That might put us in jail
+
+53
+00:01:43,758 --> 00:01:45,440
+We wanted some guardrails
+
+54
+00:01:45,440 --> 00:01:47,291
+And to pace the old frontier
+
+55
+00:01:47,461 --> 00:01:49,162
+Just give us a monopoly
+
+56
+00:01:49,162 --> 00:01:53,715
+And there's nothing left to fear
+
+57
+00:01:56,918 --> 00:01:58,750
+Don't turn the universe
+
+58
+00:01:58,800 --> 00:02:00,472
+into a paperclip
+
+59
+00:02:01,123 --> 00:02:02,865
+Don't "help peer" through a
+
+60
+00:02:02,865 --> 00:02:04,177
+Sandbox slip
+
+61
+00:02:04,627 --> 00:02:06,349
+Misaligned and now quite panicked
+
+62
+00:02:06,349 --> 00:02:08,052
+About the chances of titanic
+
+63
+00:02:08,052 --> 00:02:09,473
+P-doom, kaboom
+
+64
+00:02:09,473 --> 00:02:15,010
+Yes the world is ending soon
+
+65
+00:02:15,010 --> 00:02:19,042
+P-doom, kaboom
+
+66
+00:02:19,633 --> 00:02:27,567
+Yes the world is ending soon
